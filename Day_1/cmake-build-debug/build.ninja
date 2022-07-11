@@ -49,8 +49,8 @@ cmake_ninja_workdir = D$:/sem$ 3/0.01$ C/Day_1/cmake-build-debug/
 
 build cmake_object_order_depends_target_Day_1: phony || CMakeFiles/Day_1.dir
 
-build CMakeFiles/Day_1.dir/02_greet_someone.cpp.obj: CXX_COMPILER__Day_1_Debug D$:/sem$ 3/0.01$ C/Day_1/02_greet_someone.cpp || cmake_object_order_depends_target_Day_1
-  DEP_FILE = CMakeFiles\Day_1.dir\02_greet_someone.cpp.obj.d
+build CMakeFiles/Day_1.dir/04_sum_of_N_natural_number.cpp.obj: CXX_COMPILER__Day_1_Debug D$:/sem$ 3/0.01$ C/Day_1/04_sum_of_N_natural_number.cpp || cmake_object_order_depends_target_Day_1
+  DEP_FILE = CMakeFiles\Day_1.dir\04_sum_of_N_natural_number.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\Day_1.dir
   OBJECT_FILE_DIR = CMakeFiles\Day_1.dir
@@ -63,7 +63,7 @@ build CMakeFiles/Day_1.dir/02_greet_someone.cpp.obj: CXX_COMPILER__Day_1_Debug D
 #############################################
 # Link the executable Day_1.exe
 
-build Day_1.exe: CXX_EXECUTABLE_LINKER__Day_1_Debug CMakeFiles/Day_1.dir/02_greet_someone.cpp.obj
+build Day_1.exe: CXX_EXECUTABLE_LINKER__Day_1_Debug CMakeFiles/Day_1.dir/04_sum_of_N_natural_number.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Day_1.dir
