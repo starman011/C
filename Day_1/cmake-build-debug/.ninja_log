@@ -1,0 +1,7 @@
+# ninja log v5
+1	398	6791417098430915	CMakeFiles/Day_1.dir/00_hello_world.cpp.obj	b4e1a669dc8c444d
+389	538	6791432694771027	Day_1.exe	238ff55a2ba4518
+3	320	6791425756425389	CMakeFiles/Day_1.dir/01_sum_of_two_number.cpp.obj	1f87632075b52fa5
+5	389	6791432693354456	CMakeFiles/Day_1.dir/02_greet_someone.cpp.obj	d9f6a2915dc42fdd
+4	371	6791449662454428	CMakeFiles/Day_1.dir/02_greet_someone.cpp.obj	f1f827a0f428426c
+372	567	6791449664361645	Day_1.exe	238ff55a2ba4518
